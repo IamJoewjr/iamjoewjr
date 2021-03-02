@@ -1,5 +1,5 @@
 ### Hi there 👋
-###A Technologist investigating traditional and emerging media at the intersection of race, social justice, public interest, digital humanities and other progressive schools of thought!
+### A Technologist investigating traditional and emerging media at the intersection of race, social justice, public interest, digital humanities and other progressive schools of thought!
 
 
 <!--
